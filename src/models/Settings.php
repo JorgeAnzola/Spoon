@@ -45,9 +45,7 @@ class Settings extends Model
      */
     public function rules()
     {
-        return [
-            ['$nestedSettings', 'array']
-        ];
+        return [];
     }
 
 }
