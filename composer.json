@@ -34,7 +34,7 @@
         "handle": "spoon",
         "hasCpSettings": true,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/angell-co/spoon/master/CHANGELOG.md",
+        "changelogUrl": "https://raw.githubusercontent.com/jorgeanzola/spoon/master/CHANGELOG.md",
         "components": {
             "fields": "angellco\\spoon\\services\\Fields",
             "blockTypes": "angellco\\spoon\\services\\BlockTypes",
